@@ -28,4 +28,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 
 
-Example from https://medium.com/@ervib/deploy-angular-4-app-with-express-to-heroku-6113146915ca
+[![Build Status](https://travis-ci.org/ericjrsilva/heroku-app-angular4.svg?branch=master)](https://travis-ci.org/ericjrsilva/heroku-app-angular4)
+
+Helpful urls: 
+
+https://medium.com/@ervib/deploy-angular-4-app-with-express-to-heroku-6113146915ca
+
+https://houssein.me/continuous-integration-angular-firebase-travisci
